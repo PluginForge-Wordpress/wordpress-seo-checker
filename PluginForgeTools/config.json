@@ -1,0 +1,21 @@
+{
+  "code": "plugin_forge_tools",
+  "name": {
+    "zh-cn": "PluginForge 工具集",
+    "en": "PluginForge Tools",
+    "pt-br": "PluginForge Tools",
+    "es": "PluginForge Herramientas"
+  },
+  "description": {
+    "zh-cn": "PluginForge 系列免费工具：WordPress SEO Checker、robots 生成器等，天然可引用与分享。",
+    "en": "Free PluginForge tools family including the WordPress SEO Checker, designed for organic link-worthiness and shareable public reports.",
+    "pt-br": "Família de ferramentas gratuitas da PluginForge, incluindo o WordPress SEO Checker, com relatórios públicos compartilháveis e potencial natural de citação.",
+    "es": "Familia de herramientas gratuitas de PluginForge que incluye el WordPress SEO Checker, preparada para informes públicos compartibles y citaciones naturales."
+  },
+  "type": "feature",
+  "version": "v1.0.0",
+  "author": {
+    "name": "PluginForge",
+    "email": "contato@pluginforgewordpress.com"
+  }
+}
